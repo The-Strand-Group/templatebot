@@ -10,7 +10,7 @@
     "run": "node app.js"
   },
   "author": "The Strand Group",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
     "discord.js": "^11.5.1"
